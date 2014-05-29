@@ -1,0 +1,6 @@
+MSC2 Transactions
+------------------
+
+In MSC2, a transaction is the scope of a set of one or more service
+operations. This scope defines the following rules:
+- either all operations are successful or cancelled

@@ -1,0 +1,22 @@
+MSC2
+====
+
+
+Introduction
+------------
+{Micro Service Container 2}
+
+
+The MSC2 is a lightweight container that manages service lifecycles and
+dependencies. This project is used internally by Wildfly.
+
+
+Documentation
+-------------
+
+link:userguide.html[User Guide] +
+link:examples.html[Examples] +
+link:images/msc_service_state.pdf[Service Lifecycle] +
+link:apidocs/index.html[Javadocs] +
+link:proof-algorithms.html[Algorithms] +
+link:otherdiagrams.html[Other Diagrams]

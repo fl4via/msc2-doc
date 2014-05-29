@@ -1,0 +1,10 @@
+MSC2 Charts and Diagrams
+========================
+
+
+== Service Installation
+
+Service installation diagram:
+
+.Service Installation
+image::Service{sp}Installation.png[]

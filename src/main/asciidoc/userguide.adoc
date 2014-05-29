@@ -1,0 +1,18 @@
+MSC2 User Guide
+===============
+David Lloyd <dmlloyd@redhat.com>
+Flavia Rainone <frainone@redhat.com>
+Richard Opalka <ropalka@redhat.com>
+
+:toc:
+:website: https://github.com/jboss-msc/msc2
+
+
+Introduction
+------------
+
+The Micro Service Container is a lightweight container for managing services.
+
+include::user-transactions.adoc[]
+
+include::user-services.adoc[]

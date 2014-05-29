@@ -1,0 +1,6 @@
+MSC2 Services
+-------------
+
+In MSC2, a service is an object that starts.
+Link to javadoc
+link:apidocs/org/jboss/msc/service/Service.html[Service Javadoc]

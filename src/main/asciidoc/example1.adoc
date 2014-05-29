@@ -1,0 +1,12 @@
+Example 1
+=========
+
+Look at the following MSC2 example:
+
+
+
+
+[source,java]
+----
+include::examples/SimpleServiceExample.java[]
+----
